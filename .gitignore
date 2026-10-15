@@ -1,0 +1,30 @@
+# Build artifacts
+build/
+*.o
+*.a
+*.so
+*.dylib
+*.dSYM/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.save
+*~
+
+# liboqs (installed separately)
+liboqs/
+
+# Week build folders
+week1/build/

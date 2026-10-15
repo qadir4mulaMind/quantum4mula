@@ -1,7 +1,0 @@
-# ninja log v7
-1	591	1792071602996570318	CMakeFiles/kyber_hello.dir/src/kyber_hello.cpp.o	bd1cf316e89f9491
-1	597	1792071602997107401	CMakeFiles/kyber_bench.dir/bench/kyber_bench.cpp.o	479db28c88061510
-595	723	1792071603591330641	kyber_hello	22cb5e487389de5d
-597	723	1792071603592658723	kyber_bench	54f7033cc608a863
-4	579	1792071775346023612	CMakeFiles/kyber_bench.dir/bench/kyber_bench.cpp.o	479db28c88061510
-579	695	1792071775920655283	kyber_bench	54f7033cc608a863
