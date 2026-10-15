@@ -1,4 +1,4 @@
-/Users/abdulqadir/quantumlite/week1/build/CMakeFiles/kyber_hello.dir
-/Users/abdulqadir/quantumlite/week1/build/CMakeFiles/kyber_bench.dir
-/Users/abdulqadir/quantumlite/week1/build/CMakeFiles/edit_cache.dir
-/Users/abdulqadir/quantumlite/week1/build/CMakeFiles/rebuild_cache.dir
+/Users/abdulqadir/Desktop/workSpace/project/quantumlite/week1/build/CMakeFiles/kyber_hello.dir
+/Users/abdulqadir/Desktop/workSpace/project/quantumlite/week1/build/CMakeFiles/kyber_bench.dir
+/Users/abdulqadir/Desktop/workSpace/project/quantumlite/week1/build/CMakeFiles/edit_cache.dir
+/Users/abdulqadir/Desktop/workSpace/project/quantumlite/week1/build/CMakeFiles/rebuild_cache.dir
