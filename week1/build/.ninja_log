@@ -1,0 +1,5 @@
+# ninja log v7
+1	581	1792070828042314558	CMakeFiles/kyber_hello.dir/src/kyber_hello.cpp.o	34e60ac51835458e
+2	585	1792070828042681807	CMakeFiles/kyber_bench.dir/bench/kyber_bench.cpp.o	56b0a34b2a454f9f
+585	717	1792070828626203197	kyber_bench	54f7033cc608a863
+584	717	1792070828625076781	kyber_hello	22cb5e487389de5d
